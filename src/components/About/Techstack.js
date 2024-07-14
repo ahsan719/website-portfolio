@@ -48,7 +48,7 @@ function Techstack() {
       </Col>
    
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
+        <DiPython />
       </Col>
     
       <Col xs={4} md={2} className="tech-icons">
