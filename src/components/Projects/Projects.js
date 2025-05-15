@@ -28,7 +28,7 @@ function Projects() {
               title="Cold Email Generator"
               description=""
               ghLink="https://github.com/ahsan719/cold-email-generator"
-              demoLink="The Cold Email Generator is a Python-based web application that helps you generate personalized cold emails using your portfolio data. Built with Gradio for the user interface and integrated with vector databases and document handling tools, this tool streamlines the outreach process for professionals"
+              demoLink="The Cold Email Generator is a Python-based web application that generate personalized cold emails using your portfolio data. Built with Gradio for the user interface."
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Cold Email Generator"
+              title="PassOP"
               description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"              
