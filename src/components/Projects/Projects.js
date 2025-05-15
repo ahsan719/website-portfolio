@@ -25,10 +25,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Cold Email Generator"
+              description=""
+              ghLink="https://github.com/ahsan719/cold-email-generator"
+              demoLink="The Cold Email Generator is a Python-based web application that helps you generate personalized cold emails using your portfolio data. Built with Gradio for the user interface and integrated with vector databases and document handling tools, this tool streamlines the outreach process for professionals"
             />
           </Col>
 
@@ -36,9 +36,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="PassOP"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              title="Github Vulnerability Scanner"
+              description="Github Repo Vulnerabilty Scanner is a powerful GitHub repository vulnerability scanner and AI-based recommendation system. It integrates Trivy for deep scanning of repositories and utilizes LLM (LLaMA 3) via the Groq API to generate insightful and professional recommendations on detected vulnerabilities."
+              ghLink="https://github.com/ahsan719/github-vulnerbility-scanner"
               demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
