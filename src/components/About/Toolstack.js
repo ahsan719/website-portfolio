@@ -8,7 +8,8 @@ import {
   SiMacos,
   SiGithub,
   SiNextdotjs,
-  SiDocker
+  SiDocker,
+  SiProxmox
 } from "react-icons/si";
 
 function Toolstack() {
@@ -32,6 +33,9 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiNextdotjs/>
+     </Col>
+     <Col xs={4} md={2} className="tech-icons">
+        <SiProxmox/>
      </Col>
     </Row>
   );
