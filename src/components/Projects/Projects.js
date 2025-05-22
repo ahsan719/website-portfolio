@@ -11,6 +11,7 @@ import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
   return (
+    
     <Container fluid className="project-section">
       <Particle />
       <Container>
