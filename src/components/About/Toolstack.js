@@ -7,7 +7,8 @@ import {
   SiVercel,
   SiMacos,
   SiGithub,
-  SiNextdotjs
+  SiNextdotjs,
+  SiDocker
 } from "react-icons/si";
 
 function Toolstack() {
@@ -25,6 +26,9 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiGithub />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiNextdotjs/>
