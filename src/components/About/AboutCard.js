@@ -11,23 +11,23 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Ahsan Naseer </span>
             from <span className="purple"> Haripur, Pakistan</span>
             <br />
-            I am currently  5th Semester Software Engineering Student at <span className="purple">Pak-Austria Fachhochschule .</span>
-            {/* <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
-            <br /> */}
+            I am currently a 7th Semester Software Engineering Student at{" "}
+            <span className="purple">
+              Pak-Austria Fachhochschule Institute of Applied Sciences and Technology.
+            </span>
+            <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Exploring AI & IoT Projects
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Working on Cloud & DevOps Tools
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Experimenting with System Automation & Virtualization
             </li>
           </ul>
 
