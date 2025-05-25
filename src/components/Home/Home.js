@@ -23,6 +23,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
+              
                 I'M
                 <strong className="main-name"> Ahsan Naseer</strong>
               </h1>
