@@ -29,7 +29,7 @@ function Projects() {
               title="Cold Email Generator"
               description=""
               ghLink="https://github.com/ahsan719/cold-email-generator"
-              demoLink="The Cold Email Generator is a Python-based web application that generate personalized cold emails using your portfolio data. Built with Gradio for the user interface."
+              demoLink="The Cold Email Generator is a Python-based web application that generate personalized cold emails using your portfolio data."
             />
           </Col>
 
