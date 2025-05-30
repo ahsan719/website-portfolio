@@ -13,7 +13,7 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
-
+//New functionality
 import { CgFileDocument } from "react-icons/cg";
 
 function NavBar() {
@@ -36,7 +36,8 @@ function NavBar() {
       fixed="top"
       expand="md"
       className={navColour ? "sticky" : "navbar"}
-    >
+    > 
+    
       <Container>
         <Navbar.Brand href="/" className="d-flex">
           <span style={{fontWeight : "bold"}} className="img-fluid logo purple" alt="brand" > Ahsan Naseer</span>
