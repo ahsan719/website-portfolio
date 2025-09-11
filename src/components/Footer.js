@@ -6,6 +6,7 @@ import {
   AiFillInstagram,
   AiFillFacebook,
 } from "react-icons/ai";
+
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Footer() {
